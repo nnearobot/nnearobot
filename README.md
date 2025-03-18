@@ -12,7 +12,7 @@ I am a full stack software engineer with major experience in web development. We
 
 ## My Projects
 
-🦠 [Conway's Game of Life on Subpixels](https://github.com/nnearobot/lifegame-subpixels): A small exploration into cellular automata, visually rendered on _subpixels_ implemented in 🦀.
+🦠 [Game of Life on Subpixels](https://github.com/nnearobot/lifegame-subpixels): A small exploration into cellular automata, visually rendered on _subpixels_ implemented in 🦀.
 
 **Other projects**: Check out my GitHub for various experiments and explorations of new tools, languages, and frameworks.
 
