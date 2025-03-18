@@ -1,16 +1,25 @@
-## Hi there 👋
+# I, Nnearobot
 
-<!--
-**nnearobot/nnearobot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a full stack software engineer with major experience in web development. Welcome to my Github.
 
-Here are some ideas to get you started:
+## My Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Backend**: Go, Rust, Python, Ruby, PHP, Node.js, AWS, Terraform, K8s
+
+**Frontend**: React.js, Next.js, Typescript, Less/Sass
+
+**Other Interests**: Machine Learning, Computer Graphics
+
+## My Projects
+
+🦠 [Conway's Game of Life on Subpixels](https://github.com/nnearobot/lifegame-subpixels): A small exploration into cellular automata, visually rendered on _subpixels_ implemented in 🦀.
+
+**Other projects**: Check out my GitHub for various experiments and explorations of new tools, languages, and frameworks.
+
+## My Personal
+
+🏀 I love doing sports, especially basketball and snowboarding.
+
+❄️ Winter enthusiast, preferring snowy landscapes over sunny beaches.
+
+🤖 I love robots, PCB aesthetics, sci-fi, and futuristic design.
