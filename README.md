@@ -6,7 +6,7 @@ I am a full stack software engineer with major experience in web development. We
 
 **Backend**: Go, Rust, Python, Ruby, PHP, Node.js, AWS, Terraform, K8s
 
-**Frontend**: React.js, Next.js, Typescript, Less/Sass
+**Frontend**: React.js, Typescript, Less/Sass
 
 **Other Interests**: Machine Learning, Computer Graphics
 
